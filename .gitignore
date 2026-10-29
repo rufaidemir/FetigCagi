@@ -1,0 +1,18 @@
+.godot/
+*.translation
+export_presets.cfg
+.import/
+
+# Android / mobil build
+*.apk
+*.aab
+*.idsig
+.mono/
+data_*/
+mono_crash.*.json
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
